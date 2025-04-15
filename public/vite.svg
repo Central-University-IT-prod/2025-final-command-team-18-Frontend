@@ -1,0 +1,18 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect transform="rotate(0.11477947980165482 400,298.9453125000092) " id="svg_1" height="605" width="803" y="-3.55469" x="-1.5" stroke-width="1.5" stroke="#000" fill="#46673D"/>
+  <rect id="svg_2" height="146" width="805" y="25.44531" x="-2.5" stroke-width="1.5" stroke="#000" fill="#000000"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="92" id="svg_3" y="343.44531" x="454.5" stroke-width="0" stroke="#000" fill="#000000">123456</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="92" id="svg_4" y="554.44531" x="38.5" stroke-width="0" stroke="#000" fill="#000000">Условный Услов</text>
+  <rect id="svg_5" height="170" width="225" y="242.44531" x="66.5" stroke-width="1.5" stroke="#000" fill="#A98E49"/>
+ </g>
+</svg>

@@ -1,0 +1,11 @@
+services:
+  frontend:
+    image: "REDACTED:5050/team-18/frontend:latest"
+    environment:
+      VITE_BASE_URL: "https://prod-team-18-2sg9vdiq.REDACTED/api"
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "REDACTED:80"
+    restart: always
